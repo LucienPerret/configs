@@ -12,7 +12,7 @@ noremap H I
 noremap j n
 noremap J N
 noremap k e
-noremap K E
+noremap K En
 noremap l o
 noremap L O
 
